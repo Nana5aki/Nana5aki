@@ -7,8 +7,8 @@
 -->
 # Nana5aki
 
-<div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/Nana5aki/count.svg" /> </div>
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nana5aki&show_icons=true&theme=transparent" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&layout=compact&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana5aki&layout=compact&theme=tokyonight" /> </div>
